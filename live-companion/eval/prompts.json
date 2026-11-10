@@ -1,0 +1,419 @@
+{
+  "note": "Paraphrased interviewer prompts labeled with acceptable Best Answer questionIds. Written by hand to differ from canonical wording; replace or extend with prompts heard in real Teams mocks. Negatives have no reliable Best Answer and should come back not confident.",
+  "positives": [
+    {
+      "query": "What was the best internship you've had so far, and what made it great?",
+      "expected": [
+        "msft-reported-1"
+      ]
+    },
+    {
+      "query": "Which of your past internships did you enjoy the most?",
+      "expected": [
+        "msft-reported-1"
+      ]
+    },
+    {
+      "query": "In your view, what separates a great product from a mediocre one?",
+      "expected": [
+        "msft-reported-2"
+      ]
+    },
+    {
+      "query": "What qualities make a PM successful?",
+      "expected": [
+        "msft-reported-3"
+      ]
+    },
+    {
+      "query": "What does a great product manager do differently from an average one?",
+      "expected": [
+        "msft-reported-3"
+      ]
+    },
+    {
+      "query": "Tell me about an app you use every day. What do you love about it and what would you change?",
+      "expected": [
+        "msft-reported-4",
+        "msft-reported-8"
+      ]
+    },
+    {
+      "query": "Tell me about a time you had to resolve a disagreement within your team.",
+      "expected": [
+        "msft-reported-6",
+        "saved-Q2FuIHlvdSBkZXNjcmliZSBh",
+        "competency-17"
+      ]
+    },
+    {
+      "query": "Describe a situation where two teams wanted different things and you had to get them on the same page.",
+      "expected": [
+        "saved-Q2FuIHlvdSBkZXNjcmliZSBh",
+        "msft-reported-6"
+      ]
+    },
+    {
+      "query": "What would your previous manager say is your biggest strength?",
+      "expected": [
+        "msft-reported-7",
+        "competency-38"
+      ]
+    },
+    {
+      "query": "What's an area you're actively trying to get better at?",
+      "expected": [
+        "msft-reported-7",
+        "competency-38"
+      ]
+    },
+    {
+      "query": "Which Microsoft product do you use the most, and how would you make it better?",
+      "expected": [
+        "msft-reported-8"
+      ]
+    },
+    {
+      "query": "Give me an example of when you led a team.",
+      "expected": [
+        "msft-reported-9"
+      ]
+    },
+    {
+      "query": "Tell me about a time you stepped up and rallied a group toward a goal.",
+      "expected": [
+        "msft-reported-9"
+      ]
+    },
+    {
+      "query": "If you could go back and redo one of your projects, what would you change?",
+      "expected": [
+        "msft-reported-10"
+      ]
+    },
+    {
+      "query": "Looking back at something you shipped, what would you do differently with what you know now?",
+      "expected": [
+        "msft-reported-10"
+      ]
+    },
+    {
+      "query": "How did you balance design polish against getting the core features out?",
+      "expected": [
+        "msft-reported-12",
+        "competency-19"
+      ]
+    },
+    {
+      "query": "Walk me through your background.",
+      "expected": [
+        "msft-reported-14"
+      ]
+    },
+    {
+      "query": "So, tell me about yourself.",
+      "expected": [
+        "msft-reported-14"
+      ]
+    },
+    {
+      "query": "Why are you interested in this PM internship at Microsoft?",
+      "expected": [
+        "msft-reported-15"
+      ]
+    },
+    {
+      "query": "You mentioned an 8% lift in generation starts. What exactly was the numerator and the denominator?",
+      "expected": [
+        "saved-T24geW91ciBKRC5jb20gQUkg"
+      ]
+    },
+    {
+      "query": "Pick a number on your resume and explain exactly how it was calculated and validated.",
+      "expected": [
+        "saved-T24geW91ciBKRC5jb20gQUkg"
+      ]
+    },
+    {
+      "query": "Tell me about something you built from zero with no existing playbook.",
+      "expected": [
+        "saved-VGhhbmsgeW91IGZvciB0aGF0",
+        "competency-5",
+        "competency-7"
+      ]
+    },
+    {
+      "query": "Walk me through the most technically complex thing you've built.",
+      "expected": [
+        "msft-reported-16"
+      ]
+    },
+    {
+      "query": "What APIs have you integrated, and what did they let the product do?",
+      "expected": [
+        "msft-reported-18"
+      ]
+    },
+    {
+      "query": "Tell me about a time something you tried didn't work out.",
+      "expected": [
+        "competency-3"
+      ]
+    },
+    {
+      "query": "Tell me about a mistake you made at work and what you learned from it.",
+      "expected": [
+        "competency-3",
+        "competency-11",
+        "msft-reported-10"
+      ]
+    },
+    {
+      "query": "How do you decide what to cut when you don't have enough engineering time?",
+      "expected": [
+        "competency-4",
+        "competency-19",
+        "competency-10"
+      ]
+    },
+    {
+      "query": "How did you figure out what users actually needed before deciding what to build?",
+      "expected": [
+        "competency-5"
+      ]
+    },
+    {
+      "query": "Tell me about a time when the requirements were completely unclear.",
+      "expected": [
+        "competency-7"
+      ]
+    },
+    {
+      "query": "How would you explain a complicated recommendation to someone who isn't technical?",
+      "expected": [
+        "competency-9",
+        "competency-29"
+      ]
+    },
+    {
+      "query": "How do you handle it when priorities keep shifting under you?",
+      "expected": [
+        "competency-10"
+      ]
+    },
+    {
+      "query": "Tell me about a time you received tough feedback.",
+      "expected": [
+        "competency-11"
+      ]
+    },
+    {
+      "query": "Describe a creative solution you came up with that others hadn't considered.",
+      "expected": [
+        "competency-13"
+      ]
+    },
+    {
+      "query": "Tell me about a process you streamlined or automated.",
+      "expected": [
+        "competency-15"
+      ]
+    },
+    {
+      "query": "Tell me about a risk you took on a project and how you limited the downside.",
+      "expected": [
+        "competency-16"
+      ]
+    },
+    {
+      "query": "Tell me about a time you disagreed with a decision but committed to it anyway.",
+      "expected": [
+        "competency-17",
+        "cv-deep-dive-8"
+      ]
+    },
+    {
+      "query": "Have you ever had to choose between shipping fast and doing it right?",
+      "expected": [
+        "competency-19",
+        "msft-reported-12"
+      ]
+    },
+    {
+      "query": "Why product management instead of staying in data science?",
+      "expected": [
+        "competency-39",
+        "msft-reported-14"
+      ]
+    },
+    {
+      "query": "You're joining a brand new team next week. What do you do in your first month?",
+      "expected": [
+        "competency-23"
+      ]
+    },
+    {
+      "query": "Two weeks before launch, engineering tells you the feature can't be built. What do you do?",
+      "expected": [
+        "competency-24"
+      ]
+    },
+    {
+      "query": "Your VP wants to go in a direction the user research doesn't support. How do you handle that?",
+      "expected": [
+        "competency-25"
+      ]
+    },
+    {
+      "query": "There's a critical issue that falls between two teams and no one is picking it up. What would you do?",
+      "expected": [
+        "competency-28"
+      ]
+    },
+    {
+      "query": "Tell me about a time you went above and beyond your job description.",
+      "expected": [
+        "competency-40"
+      ]
+    },
+    {
+      "query": "How have you used AI tools in your work, and how do you make sure the output is correct?",
+      "expected": [
+        "competency-41"
+      ]
+    },
+    {
+      "query": "Explain one technical concept from your work as if I were a non-technical executive.",
+      "expected": [
+        "competency-29",
+        "competency-9"
+      ]
+    },
+    {
+      "query": "How do you work with engineers and designers day to day?",
+      "expected": [
+        "competency-8",
+        "msft-reported-19"
+      ]
+    },
+    {
+      "query": "Who was on that team, and how did you divide up the work?",
+      "expected": [
+        "msft-reported-19"
+      ]
+    },
+    {
+      "query": "Tell me about a time data changed your mind.",
+      "expected": [
+        "competency-6"
+      ]
+    },
+    {
+      "query": "Give an example of an experiment whose result changed what you recommended.",
+      "expected": [
+        "competency-6"
+      ]
+    },
+    {
+      "query": "About the Three.js homepage idea: what exactly was the disagreement and what got rejected?",
+      "expected": [
+        "cv-deep-dive-8",
+        "competency-17",
+        "msft-reported-12",
+        "competency-3"
+      ]
+    },
+    {
+      "query": "What's a product you really like, and what's one thing you'd fix about it?",
+      "expected": [
+        "msft-reported-4",
+        "msft-reported-8"
+      ]
+    },
+    {
+      "query": "你为什么想来微软？",
+      "expected": [
+        "msft-reported-15"
+      ]
+    },
+    {
+      "query": "讲一个你失败的经历，你从中学到了什么？",
+      "expected": [
+        "competency-3",
+        "competency-11",
+        "msft-reported-10"
+      ]
+    },
+    {
+      "query": "你最大的优点和缺点是什么？",
+      "expected": [
+        "msft-reported-7",
+        "competency-38"
+      ]
+    },
+    {
+      "query": "讲一个你带领团队的例子。",
+      "expected": [
+        "msft-reported-9"
+      ]
+    },
+    {
+      "query": "你是怎么用AI提升工作效率的？你怎么核实AI的输出？",
+      "expected": [
+        "competency-41"
+      ]
+    },
+    {
+      "query": "介绍一下你做过的最有技术含量的项目。",
+      "expected": [
+        "msft-reported-16"
+      ]
+    },
+    {
+      "query": "如果离上线只剩两周，工程师说这个功能做不了，你会怎么办？",
+      "expected": [
+        "competency-24"
+      ]
+    },
+    {
+      "query": "能讲一个你和 stakeholder 意见不一致的例子吗？",
+      "expected": [
+        "saved-Q2FuIHlvdSBkZXNjcmliZSBh",
+        "msft-reported-6"
+      ]
+    },
+    {
+      "query": "当 engineering capacity 不够的时候你怎么 prioritize？",
+      "expected": [
+        "competency-4",
+        "competency-10",
+        "competency-19"
+      ]
+    },
+    {
+      "query": "讲讲你做过的一个 zero to one 的项目",
+      "expected": [
+        "saved-VGhhbmsgeW91IGZvciB0aGF0",
+        "competency-5"
+      ]
+    },
+    {
+      "query": "你用过哪些 API，分别实现了什么功能？",
+      "expected": [
+        "msft-reported-18"
+      ]
+    }
+  ],
+  "negatives": [
+    "Estimate how many piano tuners there are in Chicago.",
+    "How would you design an alarm clock for blind people?",
+    "What are your salary expectations?",
+    "Do you have any questions for me?",
+    "How many golf balls fit in a school bus?",
+    "Design a parking app for a busy downtown area.",
+    "What is the difference between precision and recall?",
+    "When would you be able to start?",
+    "Are you open to relocating to Redmond?",
+    "How would you price a new premium tier for a music streaming service?"
+  ]
+}

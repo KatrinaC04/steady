@@ -1,0 +1,14 @@
+.env.local
+.env.*.local
+api.md
+.next/
+node_modules/
+uploads/
+data/
+*.tsbuildinfo
+.DS_Store
+npm-debug.log*
+
+
+# private drafts
+docs/xiaohongshu-post.md

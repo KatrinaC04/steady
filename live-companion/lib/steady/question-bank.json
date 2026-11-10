@@ -1,0 +1,464 @@
+[
+  {
+    "id": "msft-reported-1",
+    "category": "Microsoft reported",
+    "prompt": "Which previous internship was your favorite, and why?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-2",
+    "category": "Microsoft reported",
+    "prompt": "What makes a product good?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-3",
+    "category": "Microsoft reported",
+    "prompt": "What makes someone an effective product manager?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-4",
+    "category": "Microsoft reported",
+    "prompt": "Discuss an app you especially like, including a weakness and an improvement.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-5",
+    "category": "Microsoft reported",
+    "prompt": "Walk me through your resume and explain the decisions connecting each step.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-6",
+    "category": "Microsoft reported",
+    "prompt": "Describe a conflict you managed and what you personally did.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-7",
+    "category": "Microsoft reported",
+    "prompt": "What is one genuine strength and one weakness you are working on?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-8",
+    "category": "Microsoft reported",
+    "prompt": "What is your favorite Microsoft product, and how would you improve it?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-9",
+    "category": "Microsoft reported",
+    "prompt": "Tell me about a time you demonstrated leadership while working as part of a team.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-10",
+    "category": "Microsoft reported",
+    "prompt": "Choose a project from your resume. What would you improve if you rebuilt it today?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-11",
+    "category": "Microsoft reported",
+    "prompt": "How would you make one of your past projects useful to more customers?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-12",
+    "category": "Microsoft reported",
+    "prompt": "For one project, how did you trade off user-interface quality against functionality?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-13",
+    "category": "Microsoft reported",
+    "prompt": "What recurring problem have you experienced with a Microsoft product you use?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-14",
+    "category": "Microsoft reported",
+    "prompt": "Tell me about your background and why it led you toward product management.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-15",
+    "category": "Microsoft reported",
+    "prompt": "Why Microsoft, and why this product-management role now?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-16",
+    "category": "Microsoft reported",
+    "prompt": "Walk me through the most technical project on your resume.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-17",
+    "category": "Microsoft reported",
+    "prompt": "Which programming languages and frameworks have you actually used, and what did you personally build with them?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-18",
+    "category": "Microsoft reported",
+    "prompt": "Which APIs have you worked with, and what product capability did each API enable?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-19",
+    "category": "Microsoft reported",
+    "prompt": "Describe the engineers, data scientists, researchers, or designers you worked with and how responsibilities were divided.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-20",
+    "category": "Microsoft reported",
+    "prompt": "How do you keep up with product and technology trends?",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "msft-reported-21",
+    "category": "Microsoft reported",
+    "prompt": "Tell me about your cross-functional and go-to-market experience.",
+    "source": "candidate-reported"
+  },
+  {
+    "id": "competency-1",
+    "category": "leadership without formal authority",
+    "prompt": "Tell me about a project where the candidate personally created alignment or momentum.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-2",
+    "category": "stakeholder conflict and influence",
+    "prompt": "Tell me about a concrete disagreement, trade-off, or competing priority.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-3",
+    "category": "failure, learning, and growth mindset",
+    "prompt": "Tell me about an approach that did not work and what the candidate changed.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-4",
+    "category": "prioritization under constraints",
+    "prompt": "Tell me about a decision involving limited time, engineering capacity, data, or scope.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-5",
+    "category": "customer focus and product judgment",
+    "prompt": "Tell me about how the candidate identified a real user need and translated it into a decision.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-6",
+    "category": "data-driven decision making",
+    "prompt": "Tell me about a time analysis or experimentation changed the candidate's recommendation.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-7",
+    "category": "ambiguity and initiative",
+    "prompt": "Tell me about a situation with unclear ownership, requirements, or path forward.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-8",
+    "category": "cross-functional technical collaboration",
+    "prompt": "Tell me about working with engineering, research, design, operations, or business partners.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-9",
+    "category": "communication and persuasion",
+    "prompt": "Explaining a complex recommendation to a skeptical or non-technical audience.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-10",
+    "category": "execution in a fast-paced environment",
+    "prompt": "Tell me about handling changing priorities, deadlines, or multiple workstreams.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-11",
+    "category": "receiving or giving difficult feedback",
+    "prompt": "Tell me about a moment when feedback materially changed the work or relationship.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-12",
+    "category": "motivation and role fit",
+    "prompt": "Tell me about why the candidate's trajectory and interests make this role the right next step.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-13",
+    "category": "innovation and creative problem solving",
+    "prompt": "Tell me about an unconventional approach the candidate introduced and why it was better than the obvious solution.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-14",
+    "category": "zero-to-one product thinking",
+    "prompt": "Tell me about how the candidate discovered, scoped, or built something that had no established playbook.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-15",
+    "category": "process innovation",
+    "prompt": "Tell me about a workflow the candidate redesigned, automated, or made meaningfully more reliable.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-16",
+    "category": "calculated risk taking",
+    "prompt": "Tell me about a decision to try an uncertain approach and how the downside was managed.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-17",
+    "category": "disagreeing and committing",
+    "prompt": "Tell me about a time the candidate challenged a decision, then supported the final direction.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-18",
+    "category": "recovering a delayed project",
+    "prompt": "Tell me about how the candidate diagnosed slippage, reset scope, and rebuilt confidence.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-19",
+    "category": "quality versus speed",
+    "prompt": "Tell me about a real decision between shipping quickly and improving reliability or completeness.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-20",
+    "category": "ethical judgment",
+    "prompt": "Tell me about a product, data, privacy, or user-safety concern the candidate had to surface.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-21",
+    "category": "inclusive collaboration",
+    "prompt": "Tell me about how the candidate made sure quieter, remote, or differently specialized teammates influenced a decision.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-22",
+    "category": "learning a new technical domain",
+    "prompt": "Tell me about how the candidate became credible quickly enough to make a product decision.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-23",
+    "category": "situational onboarding",
+    "prompt": "Imagine joining an unfamiliar team; ask what the candidate would do in the first weeks and why.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-24",
+    "category": "situational engineering pushback",
+    "prompt": "Imagine engineering says a promised feature is infeasible shortly before launch.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-25",
+    "category": "situational executive disagreement",
+    "prompt": "Imagine a senior leader requests a direction that conflicts with user evidence.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-26",
+    "category": "situational data conflict",
+    "prompt": "Imagine qualitative feedback and quantitative data point in opposite directions.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-27",
+    "category": "situational teammate underperformance",
+    "prompt": "Imagine a critical collaborator repeatedly misses commitments.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-28",
+    "category": "situational ambiguous ownership",
+    "prompt": "Imagine an important problem sits between teams and nobody owns it.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-29",
+    "category": "explaining technical complexity",
+    "prompt": "Explain one technical concept from the resume to a non-technical stakeholder without losing the decision-relevant detail.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-30",
+    "category": "working deeply with data",
+    "prompt": "Walk through one dataset, its quality problems, the analysis, and how the result changed a decision.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-31",
+    "category": "experiment judgment",
+    "prompt": "Tell me about a time the candidate designed, interpreted, or challenged an experiment.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-32",
+    "category": "metric definition",
+    "prompt": "Choose one resume metric and explain precisely how it was calculated, validated, and connected to impact.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-33",
+    "category": "favorite product judgment",
+    "prompt": "Tell me about a favorite product, what user need it solves unusually well, one weakness, and one prioritized improvement.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-34",
+    "category": "favorite Microsoft product",
+    "prompt": "Tell me about a Microsoft product the candidate knows well, its differentiated value, a pain point, and a defensible improvement.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-35",
+    "category": "product taste",
+    "prompt": "Tell me about a product design the candidate dislikes and the underlying product principle it violates.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-36",
+    "category": "technology trend judgment",
+    "prompt": "Tell me about how the candidate keeps up with technology trends and separates durable shifts from hype.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-37",
+    "category": "go-to-market thinking",
+    "prompt": "Tell me about how the candidate would connect product scope, target users, adoption, and launch learning.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-38",
+    "category": "strength and self-awareness",
+    "prompt": "Tell me about a strength with evidence and a weakness the candidate is actively changing.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-39",
+    "category": "career choice",
+    "prompt": "Tell me about why product management rather than a purely technical, analytics, research, or strategy role.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-40",
+    "category": "going beyond assigned responsibilities",
+    "prompt": "Tell me about a time you deliberately took on valuable work outside your formal scope without neglecting your core responsibilities.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "competency-41",
+    "category": "using AI effectively and responsibly at work",
+    "prompt": "Tell me about how you used AI to improve a real workflow, what remained under human judgment, and how you verified the output.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-1",
+    "category": "CV deep dive",
+    "prompt": "Choose the strongest metric on the resume. Ask for its numerator, denominator, data source, baseline, and causal caveat.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-2",
+    "category": "CV deep dive",
+    "prompt": "Choose a technically impressive bullet. Ask what the candidate personally implemented versus what the team already had.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-3",
+    "category": "CV deep dive",
+    "prompt": "Choose a model or algorithm. Ask why that approach beat the simplest reasonable baseline and what failed first.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-4",
+    "category": "CV deep dive",
+    "prompt": "Choose a data pipeline. Ask where data quality could silently fail and how the candidate detected it.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-5",
+    "category": "CV deep dive",
+    "prompt": "Choose an experiment. Ask about randomization, sample size, guardrails, and what result would have changed the decision.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-6",
+    "category": "CV deep dive",
+    "prompt": "Choose an impact claim. Ask how the candidate knows the work caused the outcome rather than merely correlating with it.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-7",
+    "category": "CV deep dive",
+    "prompt": "Choose a project with many tools listed. Ask which tool was essential, which was replaceable, and why.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-8",
+    "category": "CV deep dive",
+    "prompt": "Choose a collaboration claim. Ask for the exact disagreement, the candidate's recommendation, and what was ultimately rejected.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-9",
+    "category": "CV deep dive",
+    "prompt": "Choose a research project. Ask the candidate to explain its core technical idea to a business leader in sixty seconds.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-10",
+    "category": "CV deep dive",
+    "prompt": "Choose a shipped product. Ask what the candidate would remove if engineering capacity were cut in half.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-11",
+    "category": "CV deep dive",
+    "prompt": "Choose a result that improved. Ask what countermetric might have worsened and whether it was monitored.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-12",
+    "category": "CV deep dive",
+    "prompt": "Choose a project. Ask which assumption is most likely wrong and how the candidate would test it next week.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-13",
+    "category": "CV deep dive",
+    "prompt": "which resume bullet the candidate would be least comfortable defending to the engineer who built the system.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-14",
+    "category": "CV deep dive",
+    "prompt": "for one decision where the candidate's recommendation was overruled and what happened afterward.",
+    "source": "structured-bank"
+  },
+  {
+    "id": "cv-deep-dive-15",
+    "category": "CV deep dive",
+    "prompt": "the candidate to draw the end-to-end data or request flow behind one product claim, then identify its weakest dependency.",
+    "source": "structured-bank"
+  }
+]

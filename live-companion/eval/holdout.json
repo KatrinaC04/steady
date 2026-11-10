@@ -1,0 +1,25 @@
+{
+  "note": "Holdout prompts written after the lexicon was tuned on prompts.json. Do not tune against this file; use it to estimate generalization.",
+  "positives": [
+    { "query": "Can you talk about a moment where you had to convince your manager your idea was right?", "expected": ["competency-17", "cv-deep-dive-8", "competency-9", "msft-reported-6"] },
+    { "query": "What's the hardest piece of criticism you've gotten, and what did you do with it?", "expected": ["competency-11"] },
+    { "query": "Tell me about a deadline you almost missed.", "expected": ["competency-10", "competency-19", "competency-4"] },
+    { "query": "Which part of your resume are you most proud of and why did you go into PM?", "expected": ["msft-reported-14", "competency-39"] },
+    { "query": "How do you go about understanding your customers?", "expected": ["competency-5"] },
+    { "query": "Tell me about a time you tried a bold approach that might not have worked.", "expected": ["competency-16", "competency-13"] },
+    { "query": "Have you made any manual workflow more efficient?", "expected": ["competency-15"] },
+    { "query": "How did you know whether the analysis was actually correct before you changed the plan?", "expected": ["competency-6", "saved-T24geW91ciBKRC5jb20gQUkg"] },
+    { "query": "What would you do in your first 90 days on our team?", "expected": ["competency-23"] },
+    { "query": "Suppose leadership asks you to build something your users clearly don't want. What then?", "expected": ["competency-25"] },
+    { "query": "Tell me about the people you collaborated with on the Model Hub.", "expected": ["msft-reported-19", "competency-8"] },
+    { "query": "Tell me about a time you helped out on work that wasn't technically yours.", "expected": ["competency-40"] },
+    { "query": "说说你在团队里遇到的一次冲突，你是怎么处理的？", "expected": ["msft-reported-6", "saved-Q2FuIHlvdSBkZXNjcmliZSBh"] },
+    { "query": "你觉得一个好的产品经理需要具备什么能力？", "expected": ["msft-reported-3"] },
+    { "query": "你最喜欢的微软产品是什么，有什么可以改进的？", "expected": ["msft-reported-8"] }
+  ],
+  "negatives": [
+    "How would you increase engagement for a fitness app?",
+    "What do you think the biggest risk to the cloud market is next year?",
+    "Is there anything else you'd like us to know?"
+  ]
+}
